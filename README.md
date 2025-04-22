@@ -1,10 +1,10 @@
-# 🍽️ **Zomato Clone: Secure Deployment with DevSecOps CI/CD**  
+# 🍽️ **simple-Ruby-on-Rails-application-zepto**  
 
 ![Zomato Clone](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*X_hm5iF0NRjbOZHB6RQIFA.jpeg)  
 
-🚀 **A full-stack Zomato Clone with DevSecOps integration for a secure and scalable deployment.**  
+🚀 **simple-Ruby-on-Rails-application-Zomato Clone with DevSecOps integration for a secure and scalable deployment.**  
 
-This **Zomato Clone: Secure Deployment with DevSecOps CI/CD** repository is a **full-stack food delivery application** inspired by Zomato. It includes a **React.js frontend** and integrates DevSecOps practices to ensure a secure and automated deployment pipeline.  
+This **simple-Ruby-on-Rails-application-Zomato Secure Deployment with DevSecOps CI/CD** repository is a **full-stack food delivery application** inspired by Zomato. It includes a **React.js frontend** and integrates DevSecOps practices to ensure a secure and automated deployment pipeline.  
 
 ## 🔹 **Key Features:**  
 
@@ -94,43 +94,15 @@ You can deploy this project on:
 
 ---
 
-## 📚 Learn More  
-
-- 🏗️ [React Documentation](https://reactjs.org/)  
-- ⚡ [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)  
-- 🔍 [Analyzing Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)  
-- 📲 [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)  
-
----
-
-## 🤝 **Contributing**  
-
-Contributions are welcome! If you'd like to improve this project, feel free to submit a pull request.  
-
----
-
-## **Hit the Star!** ⭐
-
-**If you find this repository helpful and plan to use it for learning, please give it a star. Your support is appreciated!**
-
----
-
-## 🛠️ **Author & Community**  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
----
+## 📚 Learn More
 
 ### 📧 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
+https://www.linkedin.com/in/shubham-doke-a20550282/
 
 ---
 
 ### 📢 **Stay Connected**  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
+https://www.linkedin.com/in/shubham-doke-a20550282/
 
 ---
 
